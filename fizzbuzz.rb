@@ -11,3 +11,5 @@ def fizzbuzz(int)
   else nil 
   end
 end
+
+# Put conditionals with more than one behavior first.
