@@ -6,7 +6,7 @@ def fizzbuzz(int)
     "Fizz"
   elsif int % 5 == 0 
     "Buzz"
-  elsif binding.pry
+  elsif int % 5 == 0 && int % 3 == 0
     "Fizzbuzz"
   else nil 
   end
